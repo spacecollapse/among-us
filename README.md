@@ -4,6 +4,6 @@
 
 
 
-Скачать - https://github.com/defoxxx/among-us/releases/download/amongus/amongus.zip
+Скачать - https://github.com/defoxxx/among-us/releases/download/amongus/Release.zip
 
 Инструкция: Инжектить dll файл AmongUsMenu.dll в амонг ас
