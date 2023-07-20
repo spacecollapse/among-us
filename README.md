@@ -6,7 +6,5 @@
 
 Скачать - https://github.com/spacecollapse/among-us/releases/download/amongus/Release.zip
 
-он сейчас крашит ждите апдейт
-
 
 Инструкция: Инжектить dll файл AmongUsMenu.dll в амонг ас
