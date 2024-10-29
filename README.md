@@ -1,10 +1,17 @@
 # Чит на амонг ас
 
-![image](https://user-images.githubusercontent.com/53594431/218068220-e4f80554-1006-44eb-878e-f01aa5ad9fab.png)
+![image](https://github.com/user-attachments/assets/79f1a1f6-5c50-43a3-80ea-7c20a75d52cd)
+
+
+![image](https://github.com/user-attachments/assets/8ff9d05e-0e58-45f5-a75a-60b4cc98baec)
 
 
 
-Скачать - https://github.com/spacecollapse/among-us/releases/download/amongus/Release.zip
 
 
-Инструкция: Инжектить dll файл AmongUsMenu.dll в амонг ас
+Скачать - https://github.com/spacecollapse/among-us/releases/download/amongus/MalumMenu-2.4.2.zip
+
+https://github.com/spacecollapse/among-us/releases/download/amongus/MalumMenu-2.4.2-Microsoft.zip
+
+
+
